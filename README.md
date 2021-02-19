@@ -1,4 +1,4 @@
-# classes-vs-instances
+# classes-vs-instances.py
 #!/usr/bin/env python
 # coding: utf-8
 
